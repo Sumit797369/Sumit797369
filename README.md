@@ -3,7 +3,7 @@
 Turning ideas into products. Code + Creativity + Consistency**
 
 # 🧠 Digital Identity
-- **🚀 Web Developer in progress**
+- **🚀 Web Developer**
 - 🎯**Target:** FullStack Developer @ Startup / Product Company
 - 💻 **Code | Design | Systems Thinking**
 
